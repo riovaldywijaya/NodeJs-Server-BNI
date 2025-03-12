@@ -1,0 +1,17 @@
+[
+  {
+    "UserId": 1,
+    "FundId": 1,
+    "totalUnit": 100
+  },
+  {
+    "UserId": 1,
+    "FundId": 2,
+    "totalUnit": 40
+  },
+  {
+    "UserId": 1,
+    "FundId": 3,
+    "totalUnit": 69.23
+  }
+]

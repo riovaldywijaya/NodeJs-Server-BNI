@@ -1,0 +1,37 @@
+[
+  {
+    "email": "user1@mail.com",
+    "password": "12345",
+    "fullName": "John Doe",
+    "totalAsset": 0,
+    "profit": 0
+  },
+  {
+    "email": "user2@mail.com",
+    "password": "12345",
+    "fullName": "Jane Smith",
+    "totalAsset": 0,
+    "profit": 0
+  },
+  {
+    "email": "user3@mail.com",
+    "password": "12345",
+    "fullName": "Bob Jones",
+    "totalAsset": 0,
+    "profit": 0
+  },
+  {
+    "email": "user4@mail.com",
+    "password": "12345",
+    "fullName": "Alice Wonder",
+    "totalAsset": 0,
+    "profit": 0
+  },
+  {
+    "email": "user5@mail.com",
+    "password": "12345",
+    "fullName": "Charlie Brown",
+    "totalAsset": 0,
+    "profit": 0
+  }
+]

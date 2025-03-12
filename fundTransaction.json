@@ -1,0 +1,44 @@
+[
+  {
+    "TransactionId": "39d620de-6bf9-4e21-ba43-743eebb52ea4",
+    "FundId": 1,
+    "UserId": 1,
+    "date": "2023-12-06T12:30:00Z",
+    "transactionType": "buy",
+    "units": 100.0,
+    "amount": 12000.0,
+    "nav": 100.0,
+    "fees": 0,
+    "tax": 600,
+    "totalAmount": 12600.0,
+    "status": "success"
+  },
+  {
+    "TransactionId": "a1b2c3d4-5e6f-7g8h-9i10-j11k12l13m14",
+    "FundId": 2,
+    "UserId": 1,
+    "date": "2023-12-07T15:45:00Z",
+    "transactionType": "sell",
+    "units": 40.0,
+    "amount": 6000.0,
+    "nav": 150.0,
+    "fees": 0,
+    "tax": 300,
+    "totalAmount": 6300.0,
+    "status": "success"
+  },
+  {
+    "TransactionId": "x1y2z3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
+    "FundId": 3,
+    "UserId": 2,
+    "date": "2023-12-08T10:15:00Z",
+    "transactionType": "switch",
+    "units": 69.23,
+    "amount": 9000.0,
+    "nav": 130.0,
+    "fees": 0,
+    "tax": 2250,
+    "totalAmount": 11250.0,
+    "status": "success"
+  }
+]

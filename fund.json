@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Syailendra Fund",
+    "type": "Equity",
+    "nav": 100.0,
+    "rating": 4.5
+  },
+  {
+    "name": "BNI AM Fund",
+    "type": "Fixed Income",
+    "nav": 150.0,
+    "rating": 4.8
+  },
+  {
+    "name": "Danamas Stabil Fund",
+    "type": "Mixed",
+    "nav": 130.0,
+    "rating": 4.7
+  },
+  {
+    "name": "Victoria Fund",
+    "type": "Equity",
+    "nav": 180.0,
+    "rating": 4.6
+  },
+  {
+    "name": "Eatspring Fund",
+    "type": "Fixed Income",
+    "nav": 190.0,
+    "rating": 4.8
+  }
+]
